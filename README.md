@@ -1,15 +1,10 @@
 # COMP90042 Project Description
 
 **Table of Contents**
-- [0. Important Dates (Very Important!!)](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-0-important-dates)
 - [1. DataSet](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-1-dataset)
 - [2. Important Notes](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-2-important-notes)
 - [3. Model Testing](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-3-testing-and-evaluation)
 - [4. Report Writing](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-4-report-writing)
-- [5. Project Submission Method and Grading](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-5-project-submission-method-and-grading)
-- [6. Week12 Presentation and Peer Review](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-6-week-12-presentation-and-peer-review)
-- [7. Codalab](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#7-codalab)
-- [8. FAQ](https://github.com/drcarenhan/COMP90042_2024?tab=readme-ov-file#-8-faq)
 
 <br/>
 <br/>
@@ -158,13 +153,6 @@ You must use LATEX for writing your report. You must include your group number u
 
 The report should be submitted as a PDF and contain **no more than five(5)** A4 pages of content, excluding  team contribution and references. An appendix is NOT allowed. Therefore, you should consider carefully the information that you want to include in the report to build a coherent and concise narrative.
 
------
-**The team name (Group Name) MUST be formatted by following these steps:**
-1) Please check your *Workshop DayTime* and *Group Number* from the following [Project Group Sheet](https://docs.google.com/spreadsheets/d/1AUReGexXTE7FiOyLcKYPzoS1mLznyrQq/edit?usp=sharing&ouid=102389134173271487528&rtpof=true&sd=true)
-2) The *Workshop DayTime* is given by the sheet names (e.g. Mon1PM); *Group Number* is in column E within a sheet.
-3) Your team name should be formatted as **WorkshopDayTime_GroupID** (e.g. **Tue9AM_Group1** or **Wed2PM_Group3**). Note: If your workshop starts on the quarter (e.g. Wed 2:15 PM), you should still follow sheet name (e.g. Wed2PM_GroupX).
-
-----
 
 Below is a suggested report structure:
 
@@ -192,9 +180,5 @@ When you write results, please be aware of the following questions: Are they wha
 **Team contributions** (doesn't count towards the page limit) If you are a multi-person team, briefly describe the contributions of each member of the team.
 
 **References** (doesn't count towards the page limit) Your references section should be produced using BibTeX.
-
-**Note that We DO NOT MARK the report if it's not a faithful description of the implemented system (i.e. the submitted system is different to what is described in the report).**
-
-
 
 <br/>
